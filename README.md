@@ -1,2 +1,2 @@
 # assets
-assets for my creative coding projects
+Assets for my creative coding projects
